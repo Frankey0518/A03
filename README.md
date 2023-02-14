@@ -8,11 +8,11 @@ Git is a distributed version control system used to track changes to files, coor
 <b>Github</b>:
 Github is a Git-based Web platform that provides developers with a centralized repository management service to better collaborate, share, and manage code.
 
-Webstorm:
+<b>Webstorm</b>:
 WebStorm is an integrated development environment for coding in JavaScript and its related technologies, including TypeScript, React, Vue, Angular, Node.js, HTML, and style sheets.
 URL of Download: https://www.jetbrains.com/webstorm/download/#section=windows
 
-How to use Github?
+How to use <b>Github</b>?
 1. Create an account on Github. 
 2. Create a new <b>repository</b>, or clone an existing one onto a local machine. 
 3. Make changes on your local machine and <b>commit</b> the changes to Github using Git. 
