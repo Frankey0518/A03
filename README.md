@@ -2,10 +2,10 @@
 This is a tutorial on how to use GitHub.
 
 # Direction:
-Git:
+<b>Git</b>:
 Git is a distributed version control system used to track changes to files, coordinate the work of multiple developers, and ensure code integrity. 
 
-Github:
+<b>Github</b>:
 Github is a Git-based Web platform that provides developers with a centralized repository management service to better collaborate, share, and manage code.
 
 Webstorm:
